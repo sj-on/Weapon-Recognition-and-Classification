@@ -9,7 +9,7 @@
   <h2>Steps to make use of the Tool</h2>
   <ol>
     <li>Clone the repository. Do not forget to download the <a href = "https://drive.google.com/file/d/17z3LOJDlKkTxkcryidLWWZ3DeIRtTlXc/view?usp=sharing" target = "_blank">.weights file</a>.</li>
-    <li>Open Terminal/CMD in the same directory as the main.py file. (python main.py)</li>
+    <li>Open the Terminal/CMD in the same directory as the main.py file. (python main.py)</li>
     <li>Follow the instructions given in the program. </li>
   </ol>
  </blockquote>
@@ -19,3 +19,8 @@
 <blockquote>
   Kindly note that all the paths to be provided to the program are absolute paths. DO NOT provide relative paths.
 </blockquote>
+
+<p>This is how we built and trained the model.</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KkErB0YqrEA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RPXL25qcutw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
