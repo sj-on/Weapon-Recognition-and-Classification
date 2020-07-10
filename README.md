@@ -24,3 +24,5 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KkErB0YqrEA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RPXL25qcutw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<a href="https://youtu.be/ngtDlQcDhfw" target= "_blank">First clone this repo to your machine and then watch this video on how to make use of this tool.</a>
