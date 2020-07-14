@@ -3,7 +3,9 @@ import numpy as np
 import glob
 import random
 import os
+import base64
 
+print(base64.b64decode(b'Cl9fICAgICAgICBfX19fX18gICAgICBfX19fICAKXCBcICAgICAgLyAvIF9fX3xfXyBffCAgXyBcIAogXCBcIC9cIC8gLyB8ICAgLyBfYCB8IHxfKSB8CiAgXCBWICBWIC98IHxfX3wgKF98IHwgIF8gPCAKICAgXF8vXF8vICBcX19fX1xfXyxffF98IFxfXAo=').decode("UTF-8"))
 print("\n\nGIVE ABSOLUTE PATH FOR THE FILES REQUIRED\nEXAMPLE OF WEIGHT FILE PATH : E:\\data\\yolov3_trained.weights\n\n")
 
 # Paths
